@@ -237,7 +237,7 @@ export default function GlobalReviewsPage() {
                       <span className="font-medium text-text-primary">{review.author}</span>
                       <div className="flex items-center gap-2">
                         <div className="flex">
-                          {[...Array(review.rating)].map((_, i) => (
+                          {[...Array(Math.round(review.rating))].map((_, i) => (
                             <Star key={i} className="w-4 h-4 text-accent fill-accent" />
                           ))}
                         </div>
