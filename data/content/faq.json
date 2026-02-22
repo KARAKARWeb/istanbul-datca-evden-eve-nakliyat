@@ -1,0 +1,46 @@
+{
+  "title": "Sıkça Sorulan Sorular",
+  "description": "<p>SSS bölümünde İstanbul Datça evden eve nakliyat sürecinin detaylarını yanıtlarız. Ücret, sigorta, asansör ve depolama konuları netleşir, rahatlatır.</p>",
+  "faqs": [
+    {
+      "q": "İstanbul Datça evden eve nakliyat öncesi ücretsiz ekspertiz nasıl yapılır",
+      "a": "Ekspertizde oda ölçülerini alır, büyük eşyayı tek tek not ederiz. Metreküp aracı belirler. Kat mesafesi ve park uzaklığı işçilik süresini artırır; teklif kalemleri buna göre güncellenir. Malzeme listesi de yazılır."
+    },
+    {
+      "q": "Şehirlerarası evden eve nakliyat sırasında İstanbul’dan Datça’ya yükleme sonrası rota kaç saat sürer?",
+      "a": "Rota saati, çıkış saatine ve yol durumuna göre hesaplanır. Molaları sürüş güvenliği için planlarız. Feribot ihtimali varsa önceden bildiririz; yol boyunca konum paylaşır, teslim aralığını güncel tutarız. Gecikme olursa hemen ararız."
+    },
+    {
+      "q": "Evden eve nakliyat fiyatları hangi kalemlerden oluşur?",
+      "a": "Fiyat; metreküp, mesafe, kat sayısı, paketleme ve asansör ihtiyacından oluşur. Hamallık bedeli park uzaklığıyla artabilir. Paketleme seviyesi yükseldikçe malzeme ve işçilik süresi uzar, toplam değişir. Her kalem satır satır görünür."
+    },
+    {
+      "q": "Sigortalı ev taşıma ile sigortasız nakliyat arasında pratik fark nedir?",
+      "a": "Sigortalı taşımada poliçe numarası ve limit yazılıdır, hasar halinde resmi süreç işler. Değerli eşya beyanı alır, seri numarasını kaydederiz. Teslimde koli listesiyle açım kontrolü yaparız. Kırılgan kutular önce açılır, kayıt tamamlanır."
+    },
+    {
+      "q": "Asansörlü ev taşıma hangi binalarda avantaj sağlar?",
+      "a": "Yüksek katlı binalarda asansör, iniş biniş sayısını düşürür ve hız kazandırır. Cephe ölçer, park alanını işaretleriz. Rüzgâr uygunsuzsa kurulum durur; merdivende sürtünme ve darbe riski artar. Güvenlik şeridini çeker, yük limitini izleriz."
+    },
+    {
+      "q": "Sözleşmeli ev taşıma seçildiğinde sözleşmede hangi maddeler yer almalı?",
+      "a": "Sözleşmede tarih, rota, teslim saati, ödeme planı ve sorumluluklar yer alır. Ek hizmetler ayrı satır yazılır. İptal koşulu ve erteleme süresi belirtilir; ev taşıma ücreti toplamı sabitlenir. Evet, eklenir ve iki nüsha saklanır."
+    },
+    {
+      "q": "Eşya depolama hizmetinde depo koşulları nasıl olmalı?",
+      "a": "Depoda nem takibi, havalandırma ve kamera kaydı bulunmalıdır. Kolileri raf koduyla işaretler, giriş çıkışı kayıtlarız. Etiketleme doğruysa, depodan çıkışta arama süresi kısalır ve teslim hızlanır. Girişte fotoğraf çeker, koli sayısını yazıya dökeriz."
+    },
+    {
+      "q": "Ofis taşımacılığı yapılırken cihaz ve evrak güvenliği nasıl sağlanır?",
+      "a": "Cihazları balonlu naylonla sarar, seri numarasıyla kayıtlarız. Evrakı kilitli kasada taşır, kutuları departmana göre etiketleriz. Önce kritik sunucu taşınır, sonra masalar; iş kaybı kısa sürer. Varışta masa planına göre dağıtır, kabloları poşetleyip etiketleriz."
+    },
+    {
+      "q": "Nakliyat günü hazırlığında ev sahibi neleri ayırmalı?",
+      "a": "Kişisel evrak, mücevher ve ilaçları ayrı çantaya almanızı isteriz. Priz, vida ve kumandaları küçük poşetleyin. Koridoru boş bırakın; böylece ekip kolileme ve yüklemeyi kesintisiz yürütür. Cihazları boşaltır, fişleri sabitler, suyu kapatırsınız."
+    },
+    {
+      "q": "İstanbul Datça evden eve nakliyat sonrası teslim tutanağı nasıl doldurulur?",
+      "a": "Teslimde koli sayısı sayılır, listeyle eşleştirilir ve tutanağa yazılır. Hasar varsa fotoğraf çekilir, anında kayıt açılır. İtiraz için tutanak ve görsellerle aynı gün bize ulaşırsınız. Sigorta başvurusu için poliçe şartlarını izleriz."
+    }
+  ]
+}

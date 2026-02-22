@@ -1,0 +1,15 @@
+{
+  "title": "Galeri",
+  "description": "<p>Galeri, taşıma anındaki düzeni gösterir: etiketleme, asansör kurulumu ve kolileme. Görseller, ekibin iş disiplinini sahada açık biçimde eder.</p>",
+  "images": [
+    "/uploads/istanbul-datca-evden-eve-nakliyat-1.webp",
+    "/uploads/istanbul-datca-evden-eve-nakliyat-2.webp",
+    "/uploads/istanbul-datca-evden-eve-nakliyat-3.webp",
+    "/uploads/istanbul-datca-evden-eve-nakliyat-4.webp",
+    "/uploads/istanbul-datca-evden-eve-nakliyat-5.webp",
+    "/uploads/istanbul-datca-evden-eve-nakliyat-6.webp",
+    "/uploads/istanbul-datca-evden-eve-nakliyat-7.webp",
+    "/uploads/istanbul-datca-evden-eve-nakliyat-8.webp"
+  ],
+  "footer": "<p>Fotoğraflar yalnızca anı değil, süreç kanıtıdır. Kolilerin numarası, kırılgan etiketleri ve asansör kurulum açısı görünür. Böylece ev taşıma firmaları arasında kıyas yaparken somut veri elde edersiniz. İsterseniz aynı gün çekilen görsellerle teslim listesini karşılaştırırız. Bu kayıtlar, olası itirazlarda hızlı inceleme sağlar, ekip içi kalite takibini her seferinde güçlendirir.</p>"
+}

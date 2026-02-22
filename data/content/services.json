@@ -1,0 +1,31 @@
+{
+  "title": "Hizmetlerimiz",
+  "description": "Taşınma ihtiyacınızın her adımı için ekip, ekipman ve süreç hazır; tek telefonla net planı hemen birlikte kurarız, başlarız.\n",
+  "services": [
+    {
+      "title": "Evden Eve Nakliyat",
+      "description": "<p>Eşyayı sınıflandırır, sağlam paketler, gününde yeni eve taşırız.</p>"
+    },
+    {
+      "title": "Sözleşmeli Evden Eve Nakliyat",
+      "description": "<p>Süre, sorumluluk ve bedeli sözleşmeye yazar, şeffaf ilerleriz.</p>"
+    },
+    {
+      "title": "Sigortalı Evden Eve Nakliyat",
+      "description": "<p>Sigorta poliçesiyle riskleri kapatır, hasar ihtimalini minimize ederiz.</p>"
+    },
+    {
+      "title": "Asansörlü Evden Eve Nakliyat",
+      "description": "<p>Dış cephe asansörüyle hızlı yükler, merdiven riskini azaltırız.</p>"
+    },
+    {
+      "title": "Ofis Taşımacılığı",
+      "description": "<p>Dosya, cihaz ve mobilyayı etiketler, kesintiyi hızla kısaltırız.</p>"
+    },
+    {
+      "title": "Eşya Depolama",
+      "description": "<p></p>"
+    }
+  ],
+  "footer": "<p>Her taşıma öncesi ücretsiz ekspertiz yapar, kat bilgisi ve hamallık bedelini netleştiririz. Şehiriçi evden eve nakliyat ile başlayıp şehirlerarası evden eve nakliyat rotasında devam ederiz. Paketlemede çift kat streç film, köşe kartonu ve rulo ambalaj kullanırız. Teslimde liste kontrolü yapar, montajı tamamlar, anahtar teslim, tertemiz aynı gün bırakırız.</p>"
+}

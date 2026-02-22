@@ -1,0 +1,14 @@
+{
+  "title": "İstanbul Datça Rota Bilgileri",
+  "description": "Haritadaki güzergâh İstanbul’dan Datça’ya planlı ilerler; mola ve feribot ihtimali hesaba katılır. Böylece saat bilgisi şaşmaz, teslim zamanı öngörülür.\n",
+  "originCoords": "KOZCUOĞLU Eşya Depolama ve Nakliyat Hizmetleri",
+  "destinationCoords": "Datça",
+  "fromCity": "İstanbul",
+  "toCity": "Datça",
+  "distance": 741,
+  "duration": 9,
+  "basePrice": 1500,
+  "sourceCity": "İstanbul",
+  "targetCity": "Datça",
+  "priceMin": 15500
+}
