@@ -104,7 +104,6 @@ export default function ContactPageClient({ siteSettings, contactData, contactCo
                   <div>
                     <h3 className="font-medium text-text-primary mb-2">Adres</h3>
                     <p className="text-text-secondary">{contactData?.address}</p>
-                    <p className="text-text-secondary mt-2">{contactData?.phone}</p>
                   </div>
                 </div>
               </div>
