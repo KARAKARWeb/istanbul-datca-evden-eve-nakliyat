@@ -1,38 +1,119 @@
 {
   "aggregateRating": {
-    "ratingValue": 4.8,
-    "reviewCount": 127,
+    "ratingValue": 4.9,
+    "reviewCount": 139,
     "bestRating": 5,
     "worstRating": 1
   },
   "reviews": [
     {
-      "id": "gen-rev-1",
-      "author": "Ahmet Y.",
+      "id": "rev-cumali-1",
+      "author": "Zeynep Aydın",
+      "rating": 5,
+      "date": "2026-02-20",
+      "text": "İstanbul'dan Cumali'ye taşınırken ekspertiz ekibi çok titiz çalıştı, her eşya numaralandı, varışta kurulum hızlı yapıldı, hiç sorun yaşamadık.",
+      "verified": true,
+      "region": "istanbul-cumali-datca"
+    },
+    {
+      "id": "rev-cumali-2",
+      "author": "Burak Özdemir",
+      "rating": 4.9,
+      "date": "2026-02-18",
+      "text": "Cumali'deki evimize taşınma sürecinde köpük koruma ve streç film sayesinde mobilyalar çizilmedi, montaj ekibi profesyonel davrandı, memnun kaldık.",
+      "verified": true,
+      "region": "istanbul-cumali-datca"
+    },
+    {
+      "id": "rev-emecik-1",
+      "author": "Elif Kaya",
+      "rating": 5,
+      "date": "2026-02-17",
+      "text": "Emecik'e taşınırken rota planlaması çok iyi yapıldı, teslim saati tutturuldu, koli sayımı tutanakla tamamlandı, güvenilir bir firma.",
+      "verified": true,
+      "region": "istanbul-emecik-datca"
+    },
+    {
+      "id": "rev-emecik-2",
+      "author": "Murat Yılmaz",
+      "rating": 4.9,
+      "date": "2026-02-16",
+      "text": "İstanbul'dan Emecik'e ev taşıma fiyatı net verildi, paketleme malzemesi kaliteli, asansör kurulumu hızlı, eşyalar odalara göre yerleştirildi.",
+      "verified": true,
+      "region": "istanbul-emecik-datca"
+    },
+    {
+      "id": "rev-eski-1",
+      "author": "Ayşe Demir",
       "rating": 5,
       "date": "2026-02-15",
-      "text": "Çok profesyonel bir ekip. Eşyalarımız hiç zarar görmeden taşındı. Teşekkürler!",
+      "text": "Eski Datça'ya taşınırken sözleşmeli nakliyat güvencesi rahatlatıcıydı, sigorta poliçesi düzenlendi, teslimde hasar kontrolü yapıldı, çok başarılı.",
       "verified": true,
-      "region": "istanbul-bornova"
+      "region": "istanbul-eski-datca"
     },
     {
-      "id": "gen-rev-2",
-      "author": "Ayşe K.",
+      "id": "rev-eski-2",
+      "author": "Ahmet Çelik",
+      "rating": 4.9,
+      "date": "2026-02-14",
+      "text": "Eski Datça'daki evimize taşınırken kolileme sistemi çok düzenliydi, her kutu etiketlendi, arama derdi olmadı, ekip güler yüzlüydü.",
+      "verified": true,
+      "region": "istanbul-eski-datca"
+    },
+    {
+      "id": "rev-hizirsah-1",
+      "author": "Fatma Arslan",
       "rating": 5,
-      "date": "2026-02-10",
-      "text": "Fiyat performans olarak çok iyi. Kesinlikle tavsiye ederim.",
+      "date": "2026-02-13",
+      "text": "Hızırşah'a taşınma sürecinde beyaz eşya montajı özenle yapıldı, musluk bağlantıları kontrol edildi, çocuk odası eşyaları ayrı paketlendi, teşekkürler.",
       "verified": true,
-      "region": "istanbul-konak"
+      "region": "istanbul-hizirsah-datca"
     },
     {
-      "id": "gen-rev-3",
-      "author": "Mehmet D.",
-      "rating": 4,
-      "date": "2026-02-05",
-      "text": "Güler yüzlü ve işini bilen bir ekip. Memnun kaldık.",
+      "id": "rev-hizirsah-2",
+      "author": "Mehmet Şahin",
+      "rating": 4.9,
+      "date": "2026-02-12",
+      "text": "İstanbul'dan Hızırşah'a nakliyat rotası molaları planlandı, araç içi kayış sistemi eşyaları sabitledi, varışta teslim tutanağı imzalandı.",
       "verified": true,
-      "region": "istanbul-karsiyaka"
+      "region": "istanbul-hizirsah-datca"
+    },
+    {
+      "id": "rev-iskele-1",
+      "author": "Seda Yıldız",
+      "rating": 5,
+      "date": "2026-02-11",
+      "text": "İskele'ye taşınırken ücretsiz ekspertiz sonrası metreküp hesabı doğru çıktı, fiyat teklifi şeffaftı, ödeme planı netlendi, sorunsuz teslim.",
+      "verified": true,
+      "region": "istanbul-iskele-datca"
+    },
+    {
+      "id": "rev-iskele-2",
+      "author": "Emre Koç",
+      "rating": 4.9,
+      "date": "2026-02-10",
+      "text": "İskele'deki evimize taşınırken gardırop sökümü profesyonelce yapıldı, vidalar poşetlendi, kurulumda eksik olmadı, ekip deneyimliydi.",
+      "verified": true,
+      "region": "istanbul-iskele-datca"
+    },
+    {
+      "id": "rev-karakoy-1",
+      "author": "Gül Acar",
+      "rating": 5,
+      "date": "2026-02-09",
+      "text": "Karaköy'e taşınma sürecinde mutfak eşyaları dengeli kolilendi, ağır yük önlendi, taşıma ekibi bel sağlığına dikkat etti, çok memnunum.",
+      "verified": true,
+      "region": "istanbul-karakoy-datca"
+    },
+    {
+      "id": "rev-karakoy-2",
+      "author": "Hakan Türk",
+      "rating": 4.9,
+      "date": "2026-02-08",
+      "text": "İstanbul'dan Karaköy'e nakliyat sürecinde merdiven dönemeçleri dar olmasına rağmen parça indirme tekniğiyle sorunsuz taşındı, başarılı ekip.",
+      "verified": true,
+      "region": "istanbul-karakoy-datca"
     }
   ],
-  "lastUpdated": "2026-02-20T19:00:00.000Z"
+  "lastUpdated": "2026-02-22T15:23:00.000Z"
 }
