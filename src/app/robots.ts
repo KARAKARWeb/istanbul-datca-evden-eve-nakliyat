@@ -6,6 +6,7 @@ export default function robots(): MetadataRoute.Robots {
   // Dashboard settings'ten ayarları oku
   let crawlDelay = 0;
   let userAgentRules = '';
+  let siteUrl = 'https://istanbuldatcaevdenevenakliyat.com';
   
   try {
     const settingsPath = path.join(process.cwd(), 'data/settings/robots.json');
@@ -14,6 +15,14 @@ export default function robots(): MetadataRoute.Robots {
     userAgentRules = settings.userAgentRules || '';
   } catch (error) {
     // Default settings
+  }
+
+  try {
+    const siteSettingsPath = path.join(process.cwd(), 'data/settings/site.json');
+    const siteSettings = JSON.parse(fs.readFileSync(siteSettingsPath, 'utf-8'));
+    siteUrl = `https://${siteSettings.domain}`;
+  } catch (error) {
+    // Default domain
   }
 
   const rules: MetadataRoute.Robots['rules'] = [
@@ -37,6 +46,6 @@ export default function robots(): MetadataRoute.Robots {
 
   return {
     rules,
-    sitemap: `${process.env.NEXT_PUBLIC_SITE_URL}/sitemap.xml`,
+    sitemap: `${siteUrl}/sitemap.xml`,
   };
 }
