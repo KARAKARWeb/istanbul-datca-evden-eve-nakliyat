@@ -22,8 +22,6 @@ export function TipTapEditor({ content, onChange, minHeight = 200 }: TipTapEdito
         openOnClick: false,
         HTMLAttributes: {
           class: 'text-accent hover:text-accent-hover underline',
-          rel: 'noopener noreferrer',
-          target: '_blank',
         },
       }),
     ],

@@ -18,10 +18,6 @@ export function TiptapEditor({ content, onChange }: TiptapEditorProps) {
       StarterKit,
       Link.configure({
         openOnClick: false,
-        HTMLAttributes: {
-          rel: 'noopener noreferrer',
-          target: '_blank',
-        },
       }),
       Image,
     ],
