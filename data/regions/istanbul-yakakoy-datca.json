@@ -29,5 +29,23 @@
     "Kaliteli Lastik",
     "Sözleşmeli Garanti",
     "7/24 Destek"
+  ],
+  "reviews": [
+    {
+      "id": "rev-yakakoy-1",
+      "author": "Kemal Demir",
+      "rating": 5,
+      "date": "2026-01-30",
+      "text": "Yakaköy ormanlık bölgesine taşınırken yüksek şasi araç sayesinde toprak yollar rahat geçildi, mobilyalar sarsıntıdan korundu, kurulum hızlı yapıldı.",
+      "verified": true
+    },
+    {
+      "id": "rev-yakakoy-2",
+      "author": "Aylin Çelik",
+      "rating": 4.9,
+      "date": "2026-01-29",
+      "text": "Yakaköy mahallesindeki evimize taşınırken doğa içi rota planlaması mükemmeldi, araç performansı yüksekti, eşyalar zarar görmeden teslim edildi.",
+      "verified": true
+    }
   ]
 }

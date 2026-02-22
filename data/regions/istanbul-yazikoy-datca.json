@@ -29,5 +29,23 @@
     "Soğutma Sistemi Kontrolü",
     "Sözleşmeli Garanti",
     "Taksit İmkanı"
+  ],
+  "reviews": [
+    {
+      "id": "rev-yazikoy-1",
+      "author": "Cem Yıldız",
+      "rating": 5,
+      "date": "2026-01-28",
+      "text": "Yazıköy yayla bölgesine taşınırken güçlü motor araç sayesinde yokuşlar rahat çıkıldı, eşyalar sarsılmadan ulaştı, montaj ekibi deneyimliydi.",
+      "verified": true
+    },
+    {
+      "id": "rev-yazikoy-2",
+      "author": "Selin Arslan",
+      "rating": 4.9,
+      "date": "2026-01-27",
+      "text": "Yazıköy mahallesine ev taşıma sürecinde yüksek rakım etkisi hesaplandı, paketleme sıcaklık değişimine göre yapıldı, teslim sorunsuz tamamlandı.",
+      "verified": true
+    }
   ]
 }

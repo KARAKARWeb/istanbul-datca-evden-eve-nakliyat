@@ -29,5 +29,23 @@
     "Kolay Ulaşım",
     "Hızlı İşlem",
     "Taksit İmkanı"
+  ],
+  "reviews": [
+    {
+      "id": "rev-resadiye-1",
+      "author": "Serkan Kaya",
+      "rating": 5,
+      "date": "2026-02-03",
+      "text": "Reşadiye merkez bölgesine taşınırken hızlı yükleme tekniği sayesinde süre kısaldı, trafik yoğunluğu önceden hesaplandı, zamanında teslim yapıldı.",
+      "verified": true
+    },
+    {
+      "id": "rev-resadiye-2",
+      "author": "Ece Yılmaz",
+      "rating": 4.9,
+      "date": "2026-02-02",
+      "text": "Reşadiye mahallesindeki evimize taşınırken şehir merkezine yakınlık avantajı kullanıldı, park izni önceden alındı, bina yönetimi ile koordinasyon mükemmeldi.",
+      "verified": true
+    }
   ]
 }

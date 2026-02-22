@@ -29,5 +29,23 @@
     "Takviyeli Ambalaj",
     "Sözleşmeli Garanti",
     "7/24 İletişim"
+  ],
+  "reviews": [
+    {
+      "id": "rev-karakoy-1",
+      "author": "Gül Acar",
+      "rating": 5,
+      "date": "2026-02-09",
+      "text": "Karaköy mahallesine taşınma sürecinde mutfak eşyaları dengeli kolilendi, ağır yük önlendi, taşıma ekibi bel sağlığına dikkat etti, çok memnunum.",
+      "verified": true
+    },
+    {
+      "id": "rev-karakoy-2",
+      "author": "Hakan Türk",
+      "rating": 4.9,
+      "date": "2026-02-08",
+      "text": "Karaköy köyüne nakliyat sürecinde merdiven dönemeçleri dar olmasına rağmen parça indirme tekniğiyle sorunsuz taşındı, başarılı ekip.",
+      "verified": true
+    }
   ]
 }

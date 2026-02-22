@@ -29,5 +29,23 @@
     "Deneyimli Sürücü",
     "Nem Dengeli Paketleme",
     "Yazılı Sözleşme"
+  ],
+  "reviews": [
+    {
+      "id": "rev-kizlan-1",
+      "author": "Deniz Öztürk",
+      "rating": 5,
+      "date": "2026-02-07",
+      "text": "Kızlan köyüne taşınırken dağlık arazide araç performansı mükemmeldi, yüksek şasi sayesinde virajlar rahat alındı, eşyalar sarsılmadan ulaştı.",
+      "verified": true
+    },
+    {
+      "id": "rev-kizlan-2",
+      "author": "Canan Yıldırım",
+      "rating": 4.9,
+      "date": "2026-02-06",
+      "text": "Kızlan mahallesindeki evimize taşınırken paketleme malzemesi nem korumalıydı, deniz havası etkisine karşı önlem alındı, mobilyalar kusursuz teslim edildi.",
+      "verified": true
+    }
   ]
 }

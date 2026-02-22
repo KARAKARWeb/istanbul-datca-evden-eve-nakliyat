@@ -29,5 +29,23 @@
     "Sözleşmeli Taşıma",
     "7/24 Müşteri Desteği",
     "GPS Takipli Araçlar"
+  ],
+  "reviews": [
+    {
+      "id": "rev-cumali-1",
+      "author": "Zeynep Aydın",
+      "rating": 5,
+      "date": "2026-02-20",
+      "text": "Cumalı mahallesine taşınırken ekspertiz ekibi çok titiz çalıştı, her eşya numaralandı, varışta kurulum hızlı yapıldı, hiç sorun yaşamadık.",
+      "verified": true
+    },
+    {
+      "id": "rev-cumali-2",
+      "author": "Burak Özdemir",
+      "rating": 4.9,
+      "date": "2026-02-18",
+      "text": "Cumalı köyündeki evimize taşınma sürecinde köpük koruma ve streç film sayesinde mobilyalar çizilmedi, montaj ekibi profesyonel davrandı, memnun kaldık.",
+      "verified": true
+    }
   ]
 }

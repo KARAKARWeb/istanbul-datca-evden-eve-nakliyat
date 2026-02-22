@@ -29,5 +29,23 @@
     "Deneyimli Ekip",
     "Sözleşmeli Garanti",
     "7/24 Destek"
+  ],
+  "reviews": [
+    {
+      "id": "rev-mesudiye-1",
+      "author": "Okan Demir",
+      "rating": 5,
+      "date": "2026-02-05",
+      "text": "Mesudiye sahil bölgesine taşınırken nem korumalı paketleme sayesinde ahşap mobilyalar zarar görmedi, teslim sonrası kontrol listesi eksiksiz tamamlandı.",
+      "verified": true
+    },
+    {
+      "id": "rev-mesudiye-2",
+      "author": "Pınar Aydın",
+      "rating": 4.9,
+      "date": "2026-02-04",
+      "text": "Mesudiye mahallesine ev taşıma sürecinde deniz kenarı rüzgar etkisi hesaplandı, araç park mesafesi optimize edildi, hamallık bedeli baştan netleşti.",
+      "verified": true
+    }
   ]
 }

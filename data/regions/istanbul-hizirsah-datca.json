@@ -29,5 +29,23 @@
     "Kaliteli Ambalaj",
     "Yazılı Sözleşme",
     "7/24 Destek Hattı"
+  ],
+  "reviews": [
+    {
+      "id": "rev-hizirsah-1",
+      "author": "Fatma Arslan",
+      "rating": 5,
+      "date": "2026-02-13",
+      "text": "Hızırşah köyüne taşınma sürecinde beyaz eşya montajı özenle yapıldı, musluk bağlantıları kontrol edildi, çocuk odası eşyaları ayrı paketlendi, teşekkürler.",
+      "verified": true
+    },
+    {
+      "id": "rev-hizirsah-2",
+      "author": "Mehmet Şahin",
+      "rating": 4.9,
+      "date": "2026-02-12",
+      "text": "Hızırşah mahallesine nakliyat rotası molaları planlandı, araç içi kayış sistemi eşyaları sabitledi, varışta teslim tutanağı imzalandı.",
+      "verified": true
+    }
   ]
 }
