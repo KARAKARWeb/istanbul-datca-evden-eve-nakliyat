@@ -139,7 +139,7 @@ export function GlobalReviewsSection({ siteSettings, contactData, reviewsData }:
                       {review.author}
                     </div>
                     <div className="flex gap-0.5">
-                      {[...Array(review.rating)].map((_, i) => (
+                      {[...Array(Math.round(review.rating))].map((_, i) => (
                         <Star key={i} className="w-4 h-4 fill-accent text-accent" />
                       ))}
                     </div>
